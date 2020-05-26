@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tools
+Bundle-SymbolicName: Tools
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: tools.Activator
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Export-Package: binaryTools,
+ sortingAlgorithm,
+ tools
